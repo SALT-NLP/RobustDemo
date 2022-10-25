@@ -4,6 +4,17 @@ This repo contains codes for the following paper:
 
 *Hongxin Zhang, Yanzhe Zhang, Ruiyi Zhang and Diyi Yang*: 	Robustness of Demonstration-based Learning Under Limited Data Scenario, EMNLP 2022
 
+```
+@misc{zhang2022robustness,
+    title={Robustness of Demonstration-based Learning Under Limited Data Scenario},
+    author={Hongxin Zhang and Yanzhe Zhang and Ruiyi Zhang and Diyi Yang},
+    year={2022},
+    eprint={2210.10693},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
+
 If you would like to refer to it, please cite the paper mentioned above. 
 
 ## Dependency
