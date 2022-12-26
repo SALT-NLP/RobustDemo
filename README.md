@@ -76,8 +76,12 @@ To carry out experiments with 5 different data splits and 3 different random see
 
 Results will be in the output_dir specified within the script, then use the following command to aggregate the results and have the visualizations:
 
+See train.py for detailed arguments.
+
+Results will be in the output_dir specified within the script, then use the following command to aggregate the results and have the visualizations:
+
 ```bash
 python3 tools/statistics.py --task ner --dataset conll2003 --k 5shots --mode no standard standard_wrong standard_no_l random_totally random_support
 ```
 
-See tools/sample_greedy.py for more options.
+See tools/statistics.py for more options.
